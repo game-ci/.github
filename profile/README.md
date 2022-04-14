@@ -1,5 +1,7 @@
 <div align='center'>
-<!-- insert banner here -->
+  <a href="https://game.ci/" title="GameCI">
+    <img src="https://raw.githubusercontent.com/game-ci/.github/main/profile/game-ci-github-banner.png" alt="GameCI">
+  </a>
 </div>
 
 ---
