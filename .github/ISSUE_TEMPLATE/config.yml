@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FAQ
+    url: https://game.ci/docs/faq
+    about: Frequently asked questions
+  - name: Troubleshooting
+    url: https://game.ci/docs/troubleshooting/common-issues
+    about: Other people ran into these issues too
+  - name: Discuss on Discord
+    url: https://game.ci/discord
+    about: Join our community home on Discord
